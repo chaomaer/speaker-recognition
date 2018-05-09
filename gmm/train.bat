@@ -1,0 +1,1 @@
+python ser.py -t enroll -i "../train_data/*" -m model.out
